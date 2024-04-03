@@ -51,7 +51,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_message_files(
   FILES
   GazeData.msg
-  gaze_direction.msg
+  results.msg
 #  Message1.msg
 #  Message2.msg
 )
