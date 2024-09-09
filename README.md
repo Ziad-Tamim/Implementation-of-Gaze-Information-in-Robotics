@@ -12,7 +12,8 @@ The model takes as inputs head orientation, eye orientation, and noise in eye de
 ## Key Components
 ### 1. Model Overview
 
-![image](https://github.com/user-attachments/assets/88851a50-fa6d-48c6-a6e6-ba409d9caac9)
+![image](https://github.com/user-attachments/assets/2ed54e6a-116c-47d4-820d-b6315feed4dd)
+
 
 the gaze prediction model follows an algorithmic approach based on conditional logic to predict gaze direction and determine whether the gaze is direct or non-direct. The model takes into account three key inputs and produces two outputs, which are influenced by specific dependencies and conditions.
 
